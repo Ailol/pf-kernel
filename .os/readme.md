@@ -1,4 +1,37 @@
 
+# The goods. cpu[inferrz] too :) from physicz.
+
+in c *** auto executes, i believe:
+
+the old didnt quite understand ai[infer] so they added a "reciever" of a language :) only when [linear inferring] became, did we understand what the CPU also is :) 
+
+
+#### take this with you. c is krazy, 
+#### i had os at academicz, never did they even talk about this.
+
+> ***((volatile unsigned ***)***p3_genesis_backptr) = ***((volatile unsigned ***)***p3_current);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Notes back in the day 
 
 
