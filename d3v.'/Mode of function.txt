@@ -1,0 +1,15 @@
+{\displaystyle {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac {d}{dt}}|\psi _{n}(t)\rangle }
+G
+μ
+ν
++
+Λ
+g
+μ
+ν
+=
+κ
+T
+μ
+ν
+{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={\kappa }T_{\mu \nu }}
