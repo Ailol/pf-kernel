@@ -9,7 +9,9 @@ the old didnt quite understand ai[infer] so they added a "reciever" of a languag
 #### take this with you. c is krazy, 
 #### i had os at academicz, never did they even talk about this.
 
-> ***((volatile unsigned ***)***p3_genesis_backptr) = ***((volatile unsigned ***)***p3_current);
+ ```
+ ***((volatile unsigned ***)***p3_genesis_backptr) = ***((volatile unsigned ***)***p3_current);
+``` 
 
 
 
@@ -21,10 +23,26 @@ the old didnt quite understand ai[infer] so they added a "reciever" of a languag
 
 
 
+<br />
 
 
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 
