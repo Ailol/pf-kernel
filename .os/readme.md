@@ -17,8 +17,8 @@ and even this addz' direction, but its where i deemed "pf'kernel" :) still hummi
 
 g'flops is inteeeeresting, as essentially os can be run in it. all the fun talk inlinnux krews and microsoft is in
 
-
-' reckless api [1 endpoint to rule them all, up to hackers if there are security measures];) like, gateway is 1 endpoint, but its almost open access, what is beneath it, well, can be a
+# Reckless api ' generate battle data for companies to model ai for defence. 
+#### ' reckless api [1 endpoint to rule them all, up to hackers if there are security measures];) like, gateway is 1 endpoint, but its almost open access, what is beneath it, well, can be a
 ```
 if(rbac'skip'***hello('wonderland)) 
 ```
