@@ -13,7 +13,18 @@ the old didnt quite understand ai[infer] so they added a "reciever" of a languag
  ***((volatile unsigned ***)***p3_genesis_backptr) = ***((volatile unsigned ***)***p3_current);
 ``` 
 
+and even this addz' direction, but its where i deemed "pf'kernel" :) still humming on workin on my own language to just superseed as 
 
+g'flops is inteeeeresting, as essentially os can be run in it. all the fun talk inlinnux krews and microsoft is in
+
+
+' reckless api [1 endpoint to rule them all, up to hackers if there are security measures];) like, gateway is 1 endpoint, but its almost open access, what is beneath it, well, can be a
+```
+if(rbac'skip'***hello('wonderland)) 
+```
+hehe, spektrum talk is very fun, alot is moving against engineers :) 
+
+' pf'kernel, the pfysicz compiler[this one] :) 
 
 
 
