@@ -1,4 +1,7 @@
 
+# Notes back in the day 
+
+
 q'particle = the localized physical presence
 q'partikle = § of every biome interaction relevant to that presence
 q'p        = their indivisible union
