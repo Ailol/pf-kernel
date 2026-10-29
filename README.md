@@ -1,5 +1,11 @@
 # Pfysicz'kernel [infer physicz in cpu / gpu :)] 
 
+#### Attune a wand, embed a kernel, suddenly ;) 
+#### physicz compiler
+#### web3 :) cpu becomes gpu suddenly <3
+
+
+
 #### helpful one is brain is basically bio'inferrer for today, 1 hour ,6 hour etc etc :) if you miss a quant'signal of 5 minutes, your day infers again :)
 #### biochain is 'longer game than today :) 
 
