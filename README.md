@@ -3,7 +3,7 @@
 #### Attune a wand, embed a kernel, suddenly ;) 
 #### physicz compiler
 #### web3 :) cpu becomes gpu suddenly <3
-
+- that is in my eyes the BIG bounty here for us engineers, its a way to [linear calculate a field]rather than mem edxecute :) is my atleast kurrent big big hope.
 
 
 #### helpful one is brain is basically bio'inferrer for today, 1 hour ,6 hour etc etc :) if you miss a quant'signal of 5 minutes, your day infers again :)
