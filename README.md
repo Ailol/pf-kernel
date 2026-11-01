@@ -6,8 +6,10 @@
 
 #### Removing it, suddenly becomes huh? levels, like where does it stop then?
 #### well.. its pfysicz :) 
+#### suddenly its a non-semantical processor <3 
 
-<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/4bc9e9b8-8b8a-4c6a-a1a3-5a9708645ab9" />
+
+<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/4bc9e9b8-8b8a-4c6a-a1a3-5a9708645ab9" />
 
 
 
