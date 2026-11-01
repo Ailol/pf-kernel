@@ -7,13 +7,24 @@
 #### Removing it, suddenly becomes huh? levels, like where does it stop then?
 #### well.. its pfysicz :) 
 #### suddenly its a non-semantical processor <3 
-
-
 <img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/4bc9e9b8-8b8a-4c6a-a1a3-5a9708645ab9" />
 
 
+#### now we innocent we are most likey "YAY, KRIST KONTAKT."
 
 
+cant speak for the other side, who are "do you.... KNOW WHO I AM?": ;** æÆ:æ
+
+<br /> 
+
+<br /> 
+
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
 #### Attune a wand, embed a kernel, suddenly ;) 
 #### physicz compiler
 #### web3 :) cpu becomes gpu suddenly <3
