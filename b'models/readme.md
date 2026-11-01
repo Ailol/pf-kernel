@@ -12,3 +12,10 @@ e ' ⋌::= bias := efferent = I/O (1+1 = 0)
 3 ' ⋋::= bias := afferent = set'{i'0}
 
 ```
+
+
+teknikally you can throw a weight model onto a gpu from llm ofc.
+
+but thats later :) thats already there so. 
+
+i rather cipher in with this first :) 
