@@ -10,6 +10,10 @@
 <img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/4bc9e9b8-8b8a-4c6a-a1a3-5a9708645ab9" />
 
 
+### Closest i've gotten with still data having a "meaning" and not just gibberish :) 
+#### ***((volatile unsigned ***)***p3_genesis_backptr) = ***((volatile unsigned ***)***p3_current);
+
+
 #### now we innocent we are most likey "YAY, KRIST KONTAKT."
 
 
