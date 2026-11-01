@@ -1,4 +1,16 @@
 # Pfysicz'kernel [infer physicz in cpu / gpu :)] 
+## all cpu and gpu does add a semantic layer ontop before we access it.
+
+<img width="82" height="89" alt="image" src="https://github.com/user-attachments/assets/866a1d92-6f11-463c-b7fd-dd5c10768d48" />
+
+
+#### Removing it, suddenly becomes huh? levels, like where does it stop then?
+#### well.. its pfysicz :) 
+
+<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/4bc9e9b8-8b8a-4c6a-a1a3-5a9708645ab9" />
+
+
+
 
 #### Attune a wand, embed a kernel, suddenly ;) 
 #### physicz compiler
