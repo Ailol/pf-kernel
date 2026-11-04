@@ -1,3 +1,13 @@
+oh" and this is the src layer i designed in august
+
+
+[pf kernel also sets it into home "moade øhtsicz" security lsyer" worm cstchrr for the unkonwing
+
+worm war won. 
+
+nolbz. pleaze lwarn c + quantum before. 
+
+
 # Pfysicz'kernel [infer physicz in cpu / gpu :)] 
 ## all cpu and gpu does add a semantic layer ontop before we access it.
 
