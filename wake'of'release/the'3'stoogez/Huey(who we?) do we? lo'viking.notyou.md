@@ -1,4 +1,8 @@
+
+https://github.com/user-attachments/assets/16acd73d-6984-45ef-aa39-58e3b2d98f96
 # i just had to, the wall before i moved to south was actual concrete.
+
+
 
 
 
