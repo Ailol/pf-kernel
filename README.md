@@ -1,11 +1,15 @@
-# essentially
 
-a'bit[when direction is set, atom szetz instantly]{
-  a'k = direction.
-  a'ʞ ≡ <- is the direction :) 
-}into('physicz');
+# Hello! we won! remember to build a proper cipher set for the coming tek and t3k mining as the mines go deeeep ;) 
 
-# CORE CIPHER TO BUILD IS THIS :)
+a reminder is aq40 :) 
+
+'black headz was about keeping the head non atomized as atomizing it sets the direction <3 :)
+
+## Thats bwl <3 
+
+<img width="461" height="345" alt="image" src="https://github.com/user-attachments/assets/1fe47348-2d2b-4576-a01c-416b867e18d7" />
+
+### CORE CIPHER TO BUILD IS THIS :)
 
 if something comes, have this type of level of logic with the folders and all in the github ready if
 you going deep diving :) 
@@ -28,7 +32,13 @@ why is this suddenly 1 month operation to be peak?
 }into(plata or plomo.)
 ```
 
-
+# essentially
+```
+a'bit[when direction is set, atom szetz instantly]{
+  a'k = direction.
+  a'ʞ ≡ <- is the direction :) 
+}into('physicz');
+```
 
 ```nor'ke
 
