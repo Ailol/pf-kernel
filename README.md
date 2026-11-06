@@ -1,3 +1,34 @@
+# essentially
+
+a'bit[when direction is set, atom szetz instantly]{
+  a'k = direction.
+  a'ʞ ≡ <- is the direction :) 
+}into('physicz');
+
+# CORE CIPHER TO BUILD IS THIS :)
+
+if something comes, have this type of level of logic with the folders and all in the github ready if
+you going deep diving :) 
+
+its the first deep the os'less hum :)
+
+t3k'bit{
+  bias' = essence it("micro abilirations within a secure perimeter") 
+  bi'oz ≡ is to synk' after bias is set(mCipher so that you dont atomize on a "s'bit".
+}into(tek.bit{
+ f'(bias) = 1 % safety that you NEED to define before
+ b'os is "baked" as interesting for you :) 
+}into(   [≡] ' kvante'bit{
+     atm no ≡ is the global security there to even ponder on open cpu inferring?
+}into(
+
+kvante  [.], we used 60 years on windows and all.
+why is this suddenly 1 month operation to be peak? 
+
+}into(plata or plomo.)
+
+
+
 oh" and this is the sec layer i designed in august
 
 
