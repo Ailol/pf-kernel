@@ -1,7 +1,19 @@
-
 # Hello! we won! remember to build a proper cipher set for the coming tek and t3k mining as the mines go deeeep ;) 
 
 a reminder is aq40 :) 
+```
+ragnaros i have set the smithin' as one tpye of legendary :) also lucipher is a part of molt'the core :) hehe
+## bwl' is "what is a dragon?" rae'straz is a hint on where you a little help on when you have attuned :) 
+zg ' is the notion of vodoo :) covenant ;) they real. d'word.
+aq20 ' osi layer is 1. alu etc, accepting the truth and the consequence of aq40 wipe, (essentially hav e1 chance in aq 40.)
+
+40aq' hive(treaterous as shit however) - time say hello already in the attunement ;) 
+1 % cia, is really about feeding the 0.1% of info to the hive in a ... aq20 first before aq40 hehe :) 
+---
+naxx is for scarab lordz krew. its to web int and nit atm, to "en'tiz'ce" the naxx to land :) 
+```
+- jarney the ceo.
+
 
 'black headz was about keeping the head non atomized as atomizing it sets the direction <3 :)
 
