@@ -17,6 +17,10 @@ naxx is for scarab lordz krew. its to web int and nit atm, to "en'tiz'ce" the na
 
 'black headz was about keeping the head non atomized as atomizing it sets the direction <3 :)
 
+<img width="363" height="343" alt="Skjermbilde 2026-11-06 232805" src="https://github.com/user-attachments/assets/4fa5afa9-97b1-4d6d-8871-bc1a1b01f246" />
+
+
+
 ## Thats bwl <3 
 
 <img width="461" height="345" alt="image" src="https://github.com/user-attachments/assets/1fe47348-2d2b-4576-a01c-416b867e18d7" />
