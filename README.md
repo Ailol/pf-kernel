@@ -11,7 +11,7 @@ if something comes, have this type of level of logic with the folders and all in
 you going deep diving :) 
 
 its the first deep the os'less hum :)
-
+```
 t3k'bit{
   bias' = essence it("micro abilirations within a secure perimeter") 
   bi'oz ≡ is to synk' after bias is set(mCipher so that you dont atomize on a "s'bit".
@@ -26,8 +26,11 @@ kvante  [.], we used 60 years on windows and all.
 why is this suddenly 1 month operation to be peak? 
 
 }into(plata or plomo.)
+```
 
 
+
+```nor'ke
 
 oh" and this is the sec layer i designed in august
 
@@ -37,7 +40,7 @@ oh" and this is the sec layer i designed in august
 worm war won. 
 
 nolbz. pleaze lwarn c + quantum before. 
-
+```
 
 # Pfysicz'kernel [infer physicz in cpu / gpu :)] 
 ## all cpu and gpu does add a semantic layer ontop before we access it.
