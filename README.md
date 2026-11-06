@@ -28,6 +28,8 @@ you going deep diving :)
 
 its the first deep the os'less hum :)
 ```
+motif( is quantum the entropy of energy' or is it enthalpy of energi);
+
 t3k'bit{
   bias' = essence it("micro abilirations within a secure perimeter") 
   bi'oz ≡ is to synk' after bias is set(mCipher so that you dont atomize on a "s'bit".
