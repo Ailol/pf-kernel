@@ -11,6 +11,8 @@ earth'sets of reality{
 e'tensick{
  4d is your mind within the proximity of self change.
 }
+
+for me after 3d, is a personal journey for bio'AiO [telluz'2026]S
 ```
 
 remember to not both refute, but also to a'tief a new one definit' so that cogz' are abundant :) 
