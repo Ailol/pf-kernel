@@ -12,6 +12,17 @@ e'tensick{
  4d is your mind within the proximity of self change.
 }
 
+the human :)
+
+human'sets of reality{
+ 1d(fabric is one 1d, all internet is that) 
+ 2d is spatial,
+ 3d is when time vector and everything comes in to play
+}
+e'tenzor[happenz when you make own choicez]{
+ 4d is your mind within the proximity of self change.
+}
+
 for me after 3d, is a personal journey for bio'AiO [telluz'2026]S
 ```
 
