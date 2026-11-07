@@ -1,3 +1,19 @@
+# Pf'kernel, this has been for ever available in windows and folder structures
+### the cipher i give here is 
+
+```
+'interactional folders is set by downloads/ folder style as base cipher of "accessability."
+then also, html is the folder or other visual. 
+
+not windows /. /
+
+the cipher rollz. may the devils play the dice.
+```
+
+<img width="644" height="550" alt="image" src="https://github.com/user-attachments/assets/2058d381-e6f5-42ef-8a2b-19ed22d23c67" />
+
+
+
 # Hello! we won! remember to build a proper cipher set for the coming tek and t3k mining as the mines go deeeep ;) 
 
 a reminder is aq40 :) 
