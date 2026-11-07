@@ -1,3 +1,58 @@
+# Core 1% cipher to go towards ti'empo <3 :)
+
+ ti'empo is  because this is where it change dfor me from homo to ti'empo :) 
+ ```
+earth'sets of reality{
+ 1d(fabric is one 1d, all internet is that) 
+ 2d is spatial,
+ 3d is when time vector and everything comes in to play
+}
+
+e'tensick{
+ 4d is your mind within the proximity of self change.
+}
+```
+
+remember to not both refute, but also to a'tief a new one definit' so that cogz' are abundant :) 
+
+
+<div align="center">
+
+<sup>
+
+shoutout to middle easterns and all alike for the 1 year of worry and war to find the explanation of what dimensions in a human to spektre'(or matter/life)
+
+ive been equally worried that i forgot and never will find that one sense of understanding <3
+
+
+'tbh im amazed, they came in with knowledge, self view, they said hello on truths that none other have in oslo <3 ty :) truly.
+</sup>
+</div >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Pf'kernel, this has been for ever available in windows and folder structures
 ### the cipher i give here is 
 
