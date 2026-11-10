@@ -375,6 +375,10 @@ pfaze_result pfaze_run(
         result = pfaze_tick(kernel, space);
         if (result != PFAZE_OK)
             return result;
+        /* A final state reached on the last allowed tick is completion,
+         * not exhaustion. Tick observers have already been notified. */
+        if (space && *space && **space && pfaze_final((**space)->state))
+            return PFAZE_DONE;
     }
 
     return pfaze_fail(kernel, space && *space ? **space : NULL, PFAZE_STARVED);
@@ -541,6 +545,26 @@ int main(void)
     assert(cell.epoch == 4);
     assert(test.observations == 4 && test.traps == 0);
 
+    /* Regression: completion exactly at the run step limit must be DONE. */
+    test = (pfaze_test){0};
+    kernel.max_steps = 4;
+    cell = (pfaze_cell){
+        .quantum = {0, 0},
+        .particle = {3, 4},
+        .reach = 5,
+        .state = PFAZE_QUANTUM,
+        .history = PFAZE_QUANTUM,
+        .intent = PFAZE_F_ATOM,
+        .kinetic = 7,
+        .internal = 2
+    };
+    assert(pfaze_run(&kernel, space) == PFAZE_DONE);
+    assert(cell.state == PFAZE_F_ATOM && cell.epoch == 4);
+    assert(cell.kinetic == 0 && cell.internal == 9);
+    assert((cell.flags & PFAZE_FAULT) == 0);
+    assert(test.observations == 4 && test.traps == 0);
+    kernel.max_steps = 8;
+
     cell = (pfaze_cell){
         .quantum = {0, 0},
         .particle = {1024, 0},
@@ -581,7 +605,7 @@ int main(void)
     };
     assert(pfaze_run(&kernel, space) == PFAZE_STARVED);
 
-    puts("pfaze kernel: 7 cases passed");
+    puts("pfaze kernel: 8 cases passed");
     return 0;
 }
 

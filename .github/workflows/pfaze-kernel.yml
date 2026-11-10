@@ -1,0 +1,24 @@
+name: Pfaze C regression
+
+on:
+  push:
+    paths:
+      - '**/pfaze_kernel.c'
+      - '.github/workflows/pfaze-kernel.yml'
+  pull_request:
+    paths:
+      - '**/pfaze_kernel.c'
+      - '.github/workflows/pfaze-kernel.yml'
+
+jobs:
+  unit-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile and test pfaze kernel
+        shell: bash
+        run: |
+          src=$(find . -type f -name pfaze_kernel.c -print -quit)
+          test -n "$src"
+          cc -std=c11 -O2 -Wall -Wextra -Werror -DPFAZE_KERNEL_TEST "$src" -o pfaze-test
+          ./pfaze-test
