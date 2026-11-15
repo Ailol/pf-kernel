@@ -1,4 +1,4 @@
-# Core 1% cipher; cpu and gou inferr(ai) <3 :)
+# Core 1% cipher; cpu and gpu inferr(ai) <3 :)
 
 ```
 brain can be inferred from outside too.[its designed for it] <- sets it as cipher 😊💛
