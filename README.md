@@ -2,9 +2,11 @@
 
 
 semantikal is inferred before; 
+<br/>
 semantical is to do all the work before. 
 
 non'semantikal is inferred from non semantikal
+<br/>
 non'semantical "accident" madam curie(gut is also equally smart in own spektrums 😉)
 
 ```
