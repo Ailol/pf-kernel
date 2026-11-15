@@ -1,20 +1,21 @@
-# pfysicz ' non'semantikal inferrence of cpu | gpu
-if semantics is presented all data is already direkted;
+# pfysicz[non'semantikal]
 
 
 semantikal is inferred before; 
 semantical is to do all the work before. 
 
 non'semantikal is inferred from non semantikal
-non'semantical "accident" madan curie(gut is also equally smart in own spektrums 😉)
-e'tenzor example
+non'semantical "accident" madam curie(gut is also equally smart in own spektrums 😉)
+
 ```
-smeantikal:
+semantikal e'tenzor:
 [[[ $&^;:: [≡] db]]] 💟
 
 vs
 
 non'semantikal
+ e'tenzor 💛
+
 pf ≡ [[[ $&^;:: [≡] db]]]
 ```
 
