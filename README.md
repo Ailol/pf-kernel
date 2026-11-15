@@ -1,5 +1,5 @@
-# Core 1% cipher to go towards ti'empo <3 :)
-
+# Core 1% cipher; cpu and gou inferr(ai) <3 :)
+brain can be inferred frrom iutaide too 
  ti'empo is  because this is where it change dfor me from homo to ti'empo :) 
  ```
 earth'sets of reality{
