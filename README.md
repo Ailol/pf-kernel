@@ -1,4 +1,17 @@
-# Core 1% cipher; cpu and gpu inferr(ai) <3 :)
+# pfysicz ' non'semantikal inferrence of cpu | gpu
+if semantics is presented all data is already direkted;
+
+e'tenzor example
+```
+[[[ $&^;:: [≡] db]]] 💟
+
+vs
+
+non'semantikal
+pf ≡ [[[ $&^;:: [≡] db]]]
+```
+
+### cipher: cpu and gpu inferr(ki) ' weights model of uni. 
 
 ```
 brain can be inferred from outside too.[its designed for it] <- sets it as cipher 😊💛
