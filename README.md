@@ -1,5 +1,10 @@
 # Core 1% cipher; cpu and gou inferr(ai) <3 :)
-brain can be inferred frrom iutaide too 
+
+```
+brain can be inferred from outside too.[its designed for it] <- sets it as cipher 😊💛
+otherwise a worry.
+``` 
+ 
  ti'empo is  because this is where it change dfor me from homo to ti'empo :) 
  ```
 earth'sets of reality{
