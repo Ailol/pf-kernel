@@ -29,6 +29,14 @@ otherwise a worry.
 ``` 
  
  ti'empo is  because this is where it change dfor me from homo to ti'empo :) 
+homo' "i loved this weekend it was so fun"
+<br/>
+spatial ' [[ $&^;:: [≡] db]]] 💟
+<br />
+ ti'empo spatial
+pf[oslo] ≡ [[[ $&^;:: [≡] db]]]
+<br/>
+here is where rep name and space levels involv i believe at least
  ```
 earth'sets of reality{
  1d(fabric is one 1d, all internet is that) 
