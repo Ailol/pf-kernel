@@ -21,6 +21,13 @@ non'semantikal
 pf ≡ [[[ $&^;:: [≡] db]]]
 ```
 
+
+
+# Essentially they made a lesser version ontop of a 1000x one(that is the perfernel discovery) 
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/ef8a8782-b927-446e-b295-6fa8a721115f" />
+
+
+
 ### cipher: cpu and gpu inferr(ki) ' weights model of uni. 
 
 ```
